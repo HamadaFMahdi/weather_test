@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(70, 91, 109)
+  }
+  
+  #box {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+     border-radius: 15px; 
+    height: 300px;
+    width: 500px; 
+  }
+  
+  #button {
+    border-radius: 80px;
+    position: absolute;
+    left: 380px;
+    bottom: 25px;
+  }
+  
+  #search {
+    position: absolute;
+    left: 30px;
+    bottom: 85px;
+    width: 600px;
+    
+  } 
